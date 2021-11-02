@@ -1,6 +1,6 @@
 ---
 title: "Summer Flounder Conceptual Modeling"
-subtitle: "An Ecosystem Approach <br /> October 25, 2021"
+subtitle: "An Ecosystem Approach <br /> November 2, 2021"
 author: "Geret DePiper, Sarah Gaichas, Brandon Muffley <br /> Summer Flounder Conceptual Modeling Team"
 output:
   xaringan::moon_reader:
@@ -259,19 +259,6 @@ Allowed work group to walk through top 3 questions with visual representation to
 FYI - the Council chose question 3 to develop a Management Strategy Evaluation around. Work is currently underway.
 ???
 ---
-
-# In Conclusion...
-
-R can greatly facilitate conceptual modeling:
-
-- Recurring, changing needs
-
-- Striking visualizations
-
-- Interactivity
-
-???
----
 # Council moved forward with the MSE, however...
 
 - Some stakeholder confusion surrounding conceptual modeling
@@ -283,6 +270,20 @@ R can greatly facilitate conceptual modeling:
   + All horrendograms are horrendous
   
   + Could be pre-tested
+
+???
+---
+
+# In Conclusion...
+
+R can greatly facilitate conceptual modeling:
+
+- Recurring, changing needs
+
+- Striking visualizations
+
+- Interactivity
+
 
 
 ???
